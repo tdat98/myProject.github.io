@@ -1,0 +1,16 @@
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\appsettings.json
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\QLKHO3.deps.json
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\QLKHO3.runtimeconfig.json
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\QLKHO3.runtimeconfig.dev.json
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\QLKHO3.dll
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.RazorAssemblyInfo.cache
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.RazorAssemblyInfo.cs
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.AssemblyInfoInputs.cache
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.AssemblyInfo.cs
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.RazorTargetAssemblyInfo.cache
+D:\phanmemC#\QLKHO3\QLKHO3\bin\Debug\netcoreapp2.1\QLKHO3.pdb
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.dll
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.pdb
+D:\phanmemC#\QLKHO3\QLKHO3\obj\Debug\netcoreapp2.1\QLKHO3.csprojAssemblyReference.cache
