@@ -1,0 +1,45 @@
+<nz-layout>
+  <nz-sider>
+    <!-- <div class="logo"></div> -->
+    <ul nz-menu nzMode="inline">
+      <li nz-submenu nzTitle="Danh mục" nzIcon="menu" nzOpen>
+        <ul>
+          <ul>
+            <li nz-menu-item [nzMatchRouter]="true">
+              <a [routerLink]="['/danh-muc/khach-hang/danh-sach']">
+                <i nz-icon nzType="user" nzTheme="outline"></i><span>Khách Hàng</span>
+              </a>
+            </li>
+            <li nz-menu-item [nzMatchRouter]="true">
+              <a [routerLink]="['/danh-muc/kho/danh-sach']">
+                <i nz-icon nzType="home" nzTheme="outline"></i><span>Kho</span>
+              </a>
+            </li>
+            <li nz-menu-item [nzMatchRouter]="true">
+              <a [routerLink]="['/danh-muc/vat-tu/danh-sach']">
+                <i nz-icon nzType="gold" nzTheme="outline"></i><span>Vật tư</span>
+              </a>
+            </li>
+            <li nz-menu-item [nzMatchRouter]="true">
+              <a [routerLink]="['/danh-muc/don-vi-tinh/danh-sach']">
+                <i nz-icon nzType="filter" nzTheme="outline"></i><span>Đơn vị tính</span>
+              </a>
+            </li>
+          </ul>
+        </ul>
+      </li>
+      <li nz-submenu nzTitle="Nghiệp vụ" nzIcon="interaction" nzOpen>
+      </li>
+    </ul>
+  </nz-sider>
+  <nz-layout>
+    <nz-header>
+      <h1>Phần mềm quản lý kho</h1>
+    </nz-header>
+    <nz-content>
+
+      <router-outlet></router-outlet>
+    </nz-content>
+    <nz-footer>Copyright &copy; 2020 </nz-footer>
+  </nz-layout>
+</nz-layout>

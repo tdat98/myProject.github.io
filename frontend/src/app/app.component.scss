@@ -1,0 +1,44 @@
+nz-header,
+nz-footer {
+  background: lightskyblue;
+  color: black;
+  text-align: center;
+}
+
+nz-header{
+  height: 100px;
+  h1{
+    font-size: 40px;
+    margin-top: 20px;
+
+  }
+}
+
+[nz-menu] {
+    width: 199px;
+    height: 1000px;
+  }
+ 
+// .logo{
+//   background-image: url('https://scontent.fhan5-2.fna.fbcdn.net/v/t1.15752-9/87273517_2687610641469701_5079702557358555136_n.jpg?_nc_cat=110&_nc_ohc=bu3rTzmldP8AX8Rz01m&_nc_ht=scontent.fhan5-2.fna&oh=773fa5905a1b4e487faa998aa50b23e5&oe=5EFED93A'); 
+//   width: 199px;
+//   height: 100px;
+//     background-repeat: no-repeat;
+//     background-position: center center;
+//     background-size: cover;
+// }
+
+// .global-search-item {
+//   display: flex;
+// }
+
+// .global-search-item-desc {
+//   flex: auto;
+//   text-overflow: ellipsis;
+//   overflow: hidden;
+// }
+
+// .global-search-item-count {
+//   flex: none;
+// }
+    
